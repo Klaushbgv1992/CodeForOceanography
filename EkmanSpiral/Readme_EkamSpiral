@@ -1,0 +1,9 @@
+This script computates and plots the solution of the Ekman velocities
+
+Parameters inserted/changed in code:
+Ekman depth (De or Dek) =31.01
+h=63 (it was 62 using Ekaman.m)
+phi=32
+rho=1028
+tauwy=0.03
+f=2*7.29e-5*sin(phi*pi/180)
