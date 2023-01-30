@@ -1,6 +1,7 @@
-Lokta and Voltera model to estimate populations of predators (N2) and prey (N1). 
+EcoSystem_modeling.py is based on the Lokta and Voltera model to estimate populations of predators (N2) and prey (N1). 
 
-NOTE: The simplified relationship is modelled using differential equations:
+NOTE: 
+	The simplified relationship is modelled using differential equations:
 	->dN1/dt = b x N1 – K1 x N1 x N2
 	->Change of prey   = prey increase – predation
 	->dN2/dt = K2 x N1 x N2 – d x N2
