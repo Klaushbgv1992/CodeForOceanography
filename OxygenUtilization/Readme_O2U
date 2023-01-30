@@ -1,0 +1,5 @@
+Aquatic systems use Apparent Oxygen Utilization (AOU), which measures the discrepancy between actual dissolved oxygen (O2) and the equilibrium saturation concentration (O2SAT) in water with similar physical and chemical characteristics. AOU = O2SAT - O2, indicating the level of biological activity (respiration, remineralization) impacting oxygen concentration. 
+
+NOTE: DO_Solubility.m Computes oxygen saturation concentration
+	DO_Soubility.m is the .py plot 
+

@@ -1,0 +1,13 @@
+Lokta and Voltera model to estimate populations of predators (N2) and prey (N1). 
+
+NOTE: The simplified relationship is modelled using differential equations:
+	->dN1/dt = b x N1 – K1 x N1 x N2
+	->Change of prey   = prey increase – predation
+	->dN2/dt = K2 x N1 x N2 – d x N2
+	->Change of predator = catch of prey – predator death
+
+	x is multiplication, 
+	b is birth – death rate of prey, 
+	d the death rate of predators. 
+	K1 and K2 are constants
+

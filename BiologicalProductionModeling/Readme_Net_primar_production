@@ -1,0 +1,3 @@
+Net primary production changes with time because the vmax (maximum uptake rate) depends on temperature which has an annual variation. 
+
+NOTE: for Net_primary_production.py - NPP = rP:C  Vmax [PO4]2 /([PO4] +KS)
